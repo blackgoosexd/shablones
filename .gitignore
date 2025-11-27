@@ -1,0 +1,47 @@
+# PyCharm
+.idea/
+*.iml
+__pycache__/
+.venv/
+
+# Системные файлы
+*.log
+.DS_Store
+
+# Временные файлы
+*.tmp
+
+# Не хотим в репозитории
+27.txt
+27xd/
+usb_events.log
+
+# Исходники (можно добавить позже)
+dsa.py
+script.py
+server.py
+u.py
+EOFcat > .gitignore << EOF
+# PyCharm
+.idea/
+*.iml
+__pycache__/
+.venv/
+
+# Системные файлы
+*.log
+.DS_Store
+
+# Временные файлы
+*.tmp
+
+# Не хотим в репозитории
+27.txt
+27xd/
+usb_events.log
+
+# Исходники (можно добавить позже)
+dsa.py
+script.py
+server.py
+u.py
